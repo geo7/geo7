@@ -6,8 +6,7 @@
 |-	|- |
 | [ mypy_clean_slate ](https://github.com/geo7/mypy_clean_slate) 	      | Python package to assist mypy integration. |
 | [ gcp bucket trigger ]( https://github.com/geo7/gcp_cf_bucket_trigger ) | GCP storage bucket trigger. |
+| [ git-rb ]( https://github.com/geo7/git-rb ) 	            | Simple Python package to make git rebasing a little smoother. |
 | [ plotting_examples]( https://github.com/geo7/plotting_examples#plots ) | Example data viz for reference. |
-| [ mpl_table ]( https://github.com/geo7/mpl_table ) 	            | Python package to create particular type of table plot. |
-
 
 Feel free to get in touch - georgelenton is the local part of my gmail address. 
